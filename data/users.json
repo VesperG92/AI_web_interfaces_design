@@ -1,0 +1,49 @@
+{
+    "users": [
+        {
+            "username": "usuario1",
+            "password": "pass1",
+            "nombre": "Carlos",
+            "edad": 30,
+            "genero": "Masculino",
+            "profesion": "Desarrollador",
+            "imagenDash": ""
+        },
+        {
+            "username": "usuario2",
+            "password": "pass2",
+            "nombre": "Usuario 2",
+            "edad": 25,
+            "genero": "Femenino",
+            "profesion": "Diseñadora",
+            "imagenDash": ""
+        },
+        {
+            "username": "usuario3",
+            "password": "pass3",
+            "nombre": "Usuario 3",
+            "edad": 10,
+            "genero": "Masculino",
+            "profesion": "Estudiante",
+            "imagenDash": ""
+        },
+        {
+            "username": "usuario4",
+            "password": "pass4",
+            "nombre": "Usuario 4",
+            "edad": 35,
+            "genero": "Femenino",
+            "profesion": "Doctora",
+            "imagenDash": ""
+        },
+        {
+            "username": "usuario5",
+            "password": "pass5",
+            "nombre": "Usuario 5",
+            "edad": 28,
+            "genero": "No binario",
+            "profesion": "Artista",
+            "imagenDash": ""
+        }
+    ]
+}

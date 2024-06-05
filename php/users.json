@@ -1,0 +1,49 @@
+{
+    "users": [
+        {
+            "username": "usuario1",
+            "password": "pass1",
+            "nombre": "Carlos",
+            "edad": 30,
+            "genero": "Masculino",
+            "profesion": "Desarrollador",
+            "imagenDash": ""
+        },
+        {
+            "username": "usuario2",
+            "password": "pass2",
+            "nombre": "Raquel",
+            "edad": 27,
+            "genero": "Femenino",
+            "profesion": "Medica",
+            "imagenDash": ""
+        },
+        {
+            "username": "usuario3",
+            "password": "pass3",
+            "nombre": "Alberto",
+            "edad": 10,
+            "genero": "Masculino",
+            "profesion": "Estudiante",
+            "imagenDash": ""
+        },
+        {
+            "username": "usuario4",
+            "password": "pass4",
+            "nombre": "Dani",
+            "edad": 35,
+            "genero": "No binario",
+            "profesion": "Graphic designer",
+            "imagenDash": ""
+        },
+        {
+            "username": "usuario5",
+            "password": "pass5",
+            "nombre": "Asuncion",
+            "edad": 64,
+            "genero": "Femenino",
+            "profesion": "Jubilada",
+            "imagenDash": "..\/resources\/background_usuario5.png"
+        }
+    ]
+}
