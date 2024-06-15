@@ -2,7 +2,7 @@
 
 function callOpenAIAPIText($prompt)
 {
-    $apiKey = 'sk-proj-rg9xbTgntrVTuEDahNIlT3BlbkFJUdQ2BlEbAStjHgFs7oOA';
+    $apiKey = 'your-api-key';
     $url = 'https://api.openai.com/v1/chat/completions?';
 
     $data = [
@@ -42,7 +42,7 @@ function callOpenAIAPIText($prompt)
 
 function callOpenAIAPIDall($prompt)
 {
-    $apiKey = 'sk-proj-rg9xbTgntrVTuEDahNIlT3BlbkFJUdQ2BlEbAStjHgFs7oOA';
+    $apiKey = 'your-api-key';
     $url = 'https://api.openai.com/v1/images/generations';
 
     $data = [
